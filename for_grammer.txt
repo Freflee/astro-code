@@ -1,0 +1,3 @@
+names = ("ada","bob","coco")
+for name in names:
+print (name)
